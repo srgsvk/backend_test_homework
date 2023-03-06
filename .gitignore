@@ -11,3 +11,5 @@ build/side.txt
 __pycache__
 venv
 .pytest_cache
+.vscode
+.mypy_cache
